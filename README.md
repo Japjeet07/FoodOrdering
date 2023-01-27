@@ -1,6 +1,6 @@
 # Description
 
-This python-flask application is a simple food placement application with features such as login food menu and item cart.
+This Python-Flask application is a simple food placement application with features such as login food menu and item cart.
 The food menu is directly fetched from the SQL database that have the total number of food item and their respective 
 prices, the cart functions allows you to add the respective amount of the item and the total cost of the order is calculated using respective queries and is shown in the cart page with the item list and total rice
 
